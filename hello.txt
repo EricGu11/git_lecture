@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 hello world2
-=======
-hello world1
->>>>>>> origin/master
